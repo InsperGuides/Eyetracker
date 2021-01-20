@@ -1,2 +1,2 @@
 # Eyetracker
-Breve guia de como usar um Eye Tracke.
+Breve guia de como usar um Eye Tracker.

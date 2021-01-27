@@ -22,7 +22,7 @@ O Eye Tracker deve estar posicionado abaixo da tela na qual deseja mapear o olha
 Conectar a Tobii ao computador é simples, veja a imagem abaixo:
 
 
-![Alt text](C:\Users\willianrsl\Desktop\Tobii_Mounting.jpg)
+![Alt text](https://www.tobiipro.com/imagevault/publishedmedia/dj1mb84g0v04c1x15hp2/Non_Standard_screen_setup.jpg)
 
 ## Passo 2: Calibrar
 
